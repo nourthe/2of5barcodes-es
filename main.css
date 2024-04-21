@@ -1,0 +1,13 @@
+.text-success{
+  color: green;
+}
+.text-danger{
+  color: red;
+}
+
+.testingBarCode pre,
+.testingBarCode h2{
+  padding: 0px;
+  margin: 0px;
+  line-height: .4em;
+}
